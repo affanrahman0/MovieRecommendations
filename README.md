@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-<!--![Project Preview](preview.png)  Add a preview image if available -->
+![Project Preview](frontPage.png) 
 
 ## Overview
 
